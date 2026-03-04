@@ -1,2 +1,0 @@
-# Computer--Programming
-C++ Programs
